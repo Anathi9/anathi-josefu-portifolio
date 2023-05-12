@@ -1,0 +1,56 @@
+body{background-image: url(photo-1622547748225-3fc4abd2cca0.avif);
+    margin: 0px;
+}
+.navbar{
+    background-color: #fefffe;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+display: flex;
+justify-content: center;
+}
+.nav-link{
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+h1{
+    text-align: center;
+    padding-top: 0%;
+
+}
+h2{text-align:center ;
+
+    padding-top: 0%;
+  
+}
+
+.picture {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+      .project1{ margin-left: 5%;
+        
+      }
+    h4{text-align: right;
+        padding: 3%;
+        position: relative;top: -650px;
+    }
+#contact{
+    text-align: right;
+        padding: 0%;
+        position: relative;top: -700px;
+        
+
+}
+form{
+    text-align: right;
+        padding: 0%;
+        position: relative;top: -700px;
+        
+}
